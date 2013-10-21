@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie.Defense.Model", "Zombie.Defense.Model\Zombie.Defense.Model.csproj", "{B1D4ACAA-15CC-439A-B35E-83C81C0F7220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie.Defense.Ui", "Zombie.Defense.Ui\Zombie.Defense.Ui\Zombie.Defense.Ui.csproj", "{924FB4F8-AA69-4C2A-B41D-734EF7276778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie.Defense.UiContent", "Zombie.Defense.Ui\Zombie.Defense.UiContent\Zombie.Defense.UiContent.contentproj", "{F30E1274-1F6C-4227-8886-BA6FE3C8DDE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie.Defense.Provider", "Zombie.Defense.Provider\Zombie.Defense.Provider.csproj", "{F109F859-3279-4AD4-BD2B-B4121546B22A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie.Defense.Game", "Zombie.Defense.Game\Zombie.Defense.Game.csproj", "{DB88378F-9444-4875-9AB6-F8EF067D3DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D4ACAA-15CC-439A-B35E-83C81C0F7220}.Debug|x86.ActiveCfg = Debug|x86
+		{B1D4ACAA-15CC-439A-B35E-83C81C0F7220}.Debug|x86.Build.0 = Debug|x86
+		{B1D4ACAA-15CC-439A-B35E-83C81C0F7220}.Release|x86.ActiveCfg = Release|x86
+		{B1D4ACAA-15CC-439A-B35E-83C81C0F7220}.Release|x86.Build.0 = Release|x86
+		{924FB4F8-AA69-4C2A-B41D-734EF7276778}.Debug|x86.ActiveCfg = Debug|x86
+		{924FB4F8-AA69-4C2A-B41D-734EF7276778}.Debug|x86.Build.0 = Debug|x86
+		{924FB4F8-AA69-4C2A-B41D-734EF7276778}.Release|x86.ActiveCfg = Release|x86
+		{924FB4F8-AA69-4C2A-B41D-734EF7276778}.Release|x86.Build.0 = Release|x86
+		{F30E1274-1F6C-4227-8886-BA6FE3C8DDE0}.Debug|x86.ActiveCfg = Debug|x86
+		{F30E1274-1F6C-4227-8886-BA6FE3C8DDE0}.Release|x86.ActiveCfg = Release|x86
+		{F109F859-3279-4AD4-BD2B-B4121546B22A}.Debug|x86.ActiveCfg = Debug|x86
+		{F109F859-3279-4AD4-BD2B-B4121546B22A}.Debug|x86.Build.0 = Debug|x86
+		{F109F859-3279-4AD4-BD2B-B4121546B22A}.Release|x86.ActiveCfg = Release|x86
+		{F109F859-3279-4AD4-BD2B-B4121546B22A}.Release|x86.Build.0 = Release|x86
+		{DB88378F-9444-4875-9AB6-F8EF067D3DF5}.Debug|x86.ActiveCfg = Debug|x86
+		{DB88378F-9444-4875-9AB6-F8EF067D3DF5}.Debug|x86.Build.0 = Debug|x86
+		{DB88378F-9444-4875-9AB6-F8EF067D3DF5}.Release|x86.ActiveCfg = Release|x86
+		{DB88378F-9444-4875-9AB6-F8EF067D3DF5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
